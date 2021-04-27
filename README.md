@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/lcardosozago/corona-news.svg?branch=main)](https://travis-ci.com/lcardosozago/corona-news)
+[![Build Status](https://travis-ci.com/cgnews/corona-news.svg?branch=main)](https://travis-ci.com/cgnews/corona-news)
 
 ## Corona News
 
